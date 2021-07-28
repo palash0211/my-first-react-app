@@ -1,0 +1,10 @@
+.table {
+    min-width: 650;
+    color: "yellow";
+    background-color: "blue";
+}
+
+.style1x {
+    color: blue;
+    background: yellow;
+}
